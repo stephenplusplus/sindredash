@@ -11,7 +11,7 @@ var sindredash = require("sindredash")
 // ...
 ```
 
-[Supporting Sindre's libraries that have been modified since 2015, 'cause I don't have all day, damn.](index.json).
+[Supporting Sindre's libraries that have been modified since 2015, 'cause I don't have all day, damn.](index.js)
 
 
 ## other ways to use
