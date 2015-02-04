@@ -3,6 +3,9 @@
 
 
 ## use
+```sh
+$ npm install --save sindredash
+```
 ```js
 var sindredash = require("sindredash")
 // sindredash.hasDom()
