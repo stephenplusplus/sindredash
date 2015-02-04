@@ -1,6 +1,6 @@
 {
   "name": "sindredash",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Fighting back against modularity - a Sindre utility suite.",
   "main": "index.js",
   "repository": {
