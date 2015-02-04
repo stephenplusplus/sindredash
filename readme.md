@@ -1,5 +1,5 @@
 # sindredash
-> Fighting back against modularity - a @sindresorhus utility suite.
+> Fighting back against modularity - a [@sindresorhus](https://github.com/sindresorhus) utility suite.
 
 
 ## use
