@@ -97,6 +97,7 @@
     "xdg-basedir": "^1.0.1"
   },
   "devDependencies": {
+    "jshint": "^2.6.0",
     "mocha": "^2.1.0"
   }
 }

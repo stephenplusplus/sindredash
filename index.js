@@ -1,3 +1,5 @@
+'use strict';
+
 var camelcase = require('camelcase');
 var modules = Object.keys(require('./package.json').dependencies);
 

@@ -2,7 +2,7 @@
 > Fighting back against modularity - a [@sindresorhus](https://github.com/sindresorhus) utility suite.
 
 
-<center>![sindredash](logo.png)</center>
+<p align="center"><img src="logo.png"></p>
 
 
 ## use
