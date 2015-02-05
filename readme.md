@@ -2,19 +2,22 @@
 > Fighting back against modularity - a [@sindresorhus](https://github.com/sindresorhus) utility suite.
 
 
+<center>![sindredash](logo.png)</center>
+
+
 ## use
 ```sh
 $ npm install --save sindredash
 ```
 ```js
-var sindredash = require("sindredash")
-// sindredash.hasDom()
-// sindredash.isHtml()
-// sindredash.compareUrls()
+var sindredash = require('sindredash');
+// sindredash.hasDom();
+// sindredash.isHtml();
+// sindredash.compareUrls();
 // ...
 ```
 
-[Supporting Sindre's libraries that have been modified since 2015, 'cause I don't have all day, damn.](index.js)
+[Supporting Sindre's libraries that have been modified since 2015, 'cause I don't have all day, damn.](package.json)
 
 
 ## other ways to use
